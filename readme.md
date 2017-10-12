@@ -2,28 +2,53 @@
 
 > A curated list of ARK Projects
 
+## Table of Contents
 
-## Contents
+- [Client Libraries](#libraries)
+- [User Interfaces](#user-interfaces)
+- [Developer Tools](#developer-tools)
+- [Hardware Integrations](#hardware-integrations)
+- [Community Resources](#community-resourses)
 
-- [Section](#section)
-- [Another Section](#another-section)
+## Libraries
 
+Libraries written in different languages providing an interface to an ARK blockchain.
 
-## Section
+- [Arky](https://github.com/ArkEcosystem/arky) - Pythonic way to work with Ark.io
+- [Ark-JS](https://github.com/ArkEcosystem/ark-js) - JavaScript library for sending Ark transactions from the client or server 
+- [Ark-Go](https://github.com/ArkEcosystem/ark-go) - Go-lang library
+- [Ark-Java](https://github.com/ArkEcosystem/ark-java) - JVM library written in groovy
+- [Ark-TS](https://github.com/ArkEcosystem/ark-ts) - An ARK API wrapper, written in TypeScript
+- [Ark-Net](https://github.com/ArkEcosystem/ark-net) - .NET Client 
 
-About this section. Optional. Keep this short and focus on the list.
+## User Interfaces
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Desktop
+- [Ark-Desktop](https://github.com/ArkEcosystem/ark-desktop) - Multi Platform Ark Wallet Lite Client 
+- [Ark-Client](https://github.com/ArkEcosystem/ark-client) - Command line interface written in js/vorpal
 
+### Web
+- [Ark-Explorer](https://github.com/ArkEcosystem/ark-explorer) - Frontend of ARK Blockchain Explorer using AngularJS and TypeScript. 
+- [Ark-PaperWallet](https://github.com/ArkEcosystem/ark-paperwallet) - Paper wallet generator for Ark cryptocurrency.
 
-## Another Section
+### Mobile
+- [Ark-IOS-Monitor](https://github.com/ArkEcosystem/ark-ios-monitor) - Native iOS app to monitor your account
+- [Ark-Android-Monitor](https://github.com/ArkEcosystem/ark-android-monitor) - Native Android app to monitor your delegate account
+- [Ark-Delegate-App](https://github.com/ArkEcosystem/ark-delegate-app) - ARK Delegate monitoring APP for iOS and Android. Made with React Native 
 
-### Subsection
+## Developer Tools 
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Ark-Nucleid](https://github.com/ArkEcosystem) - Universal npm package cli-wrapper 
 
+## Hardware Integrations
+
+### Wallets
+- [Ark-Ledger](https://github.com/ArkEcosystem/ark-ledger) - Ledger App for Nano S and Nano Blue 
+
+## Community Resources
+
+- [Ark-AIPs](https://github.com/ArkEcosystem/AIPs) - Ark Improvement Proposals 
+- [Ark-Wiki](https://github.com/ArkEcosystem/wiki) - The Ark Ecosystem Wiki 
 
 ## Contribute
 

@@ -8,9 +8,13 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- The project has to be functional and have a descriptive readme
+
+- Search previous list entries before making a new one.
+
+- Use title-casing
+
+- Add your project under the relavent category
 
 Thank you for your suggestions!
 
