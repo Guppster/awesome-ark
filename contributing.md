@@ -10,6 +10,8 @@ Ensure your pull request adheres to the following guidelines:
 
 - The project has to be functional and have a descriptive readme
 
+- There must be adequate user guidance in the repository. Empty project placeholders will not be accepted
+
 - Search previous list entries before making a new one.
 
 - Use title-casing

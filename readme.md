@@ -4,12 +4,18 @@
 
 ## Table of Contents
 
+- [Node Implementations](#node-implementation)
 - [Client Libraries](#libraries)
 - [User Interfaces](#user-interfaces)
 - [Developer Tools](#developer-tools)
 - [Delegate Tools](#delegate-tools)
 - [Hardware Integrations](#hardware-integrations)
 - [Community Resources](#community-resourses)
+
+## Node Implementations
+
+- [Ark-Node](https://github.com/ArkEcosystem/ark-node) - The official Ark node.
+- [GoArk-Node](https://github.com/kristjank/goark-node) - Ark Node Implementation in GOLang 
 
 ## Libraries
 
@@ -20,6 +26,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Go](https://github.com/ArkEcosystem/ark-go) - Go-lang library
 - [Ark-Java](https://github.com/ArkEcosystem/ark-java) - JVM library written in groovy
 - [Ark-TS](https://github.com/ArkEcosystem/ark-ts) - An ARK API wrapper, written in TypeScript
+- [Ark-C](https://github.com/kristjank/ark-c) - C Client
 - [Ark-Net](https://github.com/ArkEcosystem/ark-net) - .NET Client 
 - [Ark-PHP](https://github.com/arkcommunityfund/Ark-PHP-Client) - PHP Client library
 - [Ark-Rust](https://github.com/arkcommunityfund/rust-ark) - Rust Client
@@ -35,6 +42,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 ### Web
 - [Ark-Explorer](https://github.com/ArkEcosystem/ark-explorer) - Frontend of ARK Blockchain Explorer using AngularJS and TypeScript. 
 - [Ark-PaperWallet](https://github.com/ArkEcosystem/ark-paperwallet) - Paper wallet generator for Ark cryptocurrency.
+- [Ark-PaperWalletPi](https://github.com/Ark-IoT/ark-paperwallet-pi) - Ark-PaperWallet packaged with a webserver for offline use
 - [Ark-Faucet](https://github.com/arkcommunityfund/Ark-Faucet) - Code to run your own Ark faucet 
 - [ArkStats-Reporter](https://github.com/dafty-1/arkstats-reporter) - Backend service used to report statistics for the Ark network
 
@@ -49,11 +57,9 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Node SwaggerDocs](https://ark.brianfaust.me/) - Complete documentation of the RESTful API to access the ark-node
 - [Ark-Node Guide](https://github.com/Jarunik/ark-node-guide) - Guide to help using ark-node
 
-
 ## Delegate Tools 
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
 - [ArkCoin-Dashboard](https://github.com/Jarunik/arkcoin) - Dashboard for arkcoin
-
 
 ## Hardware Integrations
 
