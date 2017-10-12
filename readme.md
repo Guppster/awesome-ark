@@ -74,13 +74,17 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-IoT](https://github.com/sleepdefic1t/ark-IoT) - Ark IoT Projects
 
 ## Bridges
-- [Aces](https://github.com/ark-aces)
+- [Aces](https://github.com/ark-aces) - Ethereum contract execution service repositories
+- [Aces-Backend](https://github.com/ark-aces/aces-backend) - Aces Backend
+- [Aces-Frontend](https://github.com/ark-aces/aces-frontend - Aces Frontend
 
 ## Community Resources
 
 - [Ark-AIPs](https://github.com/ArkEcosystem/AIPs) - Ark Improvement Proposals 
 - [Ark-Wiki](https://github.com/ArkEcosystem/wiki) - The Ark Ecosystem Wiki 
+- [Ark-Media](https://github.com/Jarunik/ark-media) - Media collection
 - [Ark-Community-Fund](https://arkcommunityfund.com/) - Ark Community Fund
+- [Ark-Community-Fund-Github](https://github.com/arkcommunityfund) - Completed ACF projects
 
 ## Contribute
 
