@@ -10,6 +10,7 @@
 - [Developer Tools](#developer-tools)
 - [Delegate Tools](#delegate-tools)
 - [Hardware Integrations](#hardware-integrations)
+- [Bridges](#bridges)
 - [Community Resources](#community-resourses)
 
 ## Node Implementations
@@ -25,10 +26,12 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-JS](https://github.com/ArkEcosystem/ark-js) - JavaScript library for sending Ark transactions from the client or server 
 - [Ark-Go](https://github.com/ArkEcosystem/ark-go) - Go-lang library
 - [Ark-Java](https://github.com/ArkEcosystem/ark-java) - JVM library written in groovy
+- [ARKKit](https://github.com/sleepdefic1t/ARKKit) - macOS & iOS Swift Framework
 - [Ark-TS](https://github.com/ArkEcosystem/ark-ts) - An ARK API wrapper, written in TypeScript
 - [Ark-C](https://github.com/kristjank/ark-c) - C Client
 - [Ark-Net](https://github.com/ArkEcosystem/ark-net) - .NET Client 
 - [Ark-PHP](https://github.com/arkcommunityfund/Ark-PHP-Client) - PHP Client library
+- [Ark-Ruby](https://github.com/faustbrian/Ark-Ruby) - Ruby
 - [Ark-Rust](https://github.com/arkcommunityfund/rust-ark) - Rust Client
 - [SwiftyArk](https://github.com/arkcommunityfund/SwiftyArk) - A Swift Framework build for the Ark Ecosystem 
 - [Ark-Laravel](https://github.com/arkcommunityfund/Laravel-Ark) - An Ark bridge for Laravel 
@@ -56,6 +59,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Nucleid](https://github.com/ArkEcosystem) - Universal npm package cli-wrapper 
 - [Ark-Node SwaggerDocs](https://ark.brianfaust.me/) - Complete documentation of the RESTful API to access the ark-node
 - [Ark-Node Guide](https://github.com/Jarunik/ark-node-guide) - Guide to help using ark-node
+- [ArkMonitor](https://github.com/Gr33nDrag0n69/ArkMonitor) - Powershell script for node monitoring
 
 ## Delegate Tools 
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
@@ -66,10 +70,20 @@ Libraries written in different languages providing an interface to an ARK blockc
 ### Wallets
 - [Ark-Ledger](https://github.com/ArkEcosystem/ark-ledger) - Ledger App for Nano S and Nano Blue 
 
+### IoT
+- [Ark-IoT](https://github.com/sleepdefic1t/ark-IoT) - Ark IoT Projects
+
+## Bridges
+- [Aces](https://github.com/ark-aces) - Ethereum contract execution service repositories
+- [Aces-Backend](https://github.com/ark-aces/aces-backend) - Aces Backend
+- [Aces-Frontend](https://github.com/ark-aces/aces-frontend) - Aces Frontend
+
 ## Community Resources
 
 - [Ark-AIPs](https://github.com/ArkEcosystem/AIPs) - Ark Improvement Proposals 
 - [Ark-Wiki](https://github.com/ArkEcosystem/wiki) - The Ark Ecosystem Wiki 
+- [Ark-Media](https://github.com/Jarunik/ark-media) - Media collection
+- [Ark-Community-Fund-Github](https://github.com/arkcommunityfund) - Completed ACF projects
 
 ## Contribute
 
