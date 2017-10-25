@@ -10,6 +10,7 @@
 - [Developer Tools](#developer-tools)
 - [Delegate Tools](#delegate-tools)
 - [Hardware Integrations](#hardware-integrations)
+- [Internet Of Things](#internet-of-things)
 - [Bridges](#bridges)
 - [Community Resources](#community-resourses)
 
@@ -70,8 +71,11 @@ Libraries written in different languages providing an interface to an ARK blockc
 ### Wallets
 - [Ark-Ledger](https://github.com/ArkEcosystem/ark-ledger) - Ledger App for Nano S and Nano Blue 
 
-### IoT
-- [Ark-IoT](https://github.com/sleepdefic1t/ark-IoT) - Ark IoT Projects
+## Internet Of Things
+- [Ark-IoT Hub](https://github.com/Guppster/Ark-IoTHub) - A hub API for controlling IoT-Modules
+- [Ark-IoT Module](https://github.com/Guppster/ARK-Lock) - A specification for IoT hardware to follow to interact with Hub
+- [Ark-Iot Controller](https://github.com/Guppster/Ark-IoTController) - A react native application for controlling Ark-IoT modules
+- [IoT-Proposals](https://github.com/sleepdefic1t/ark-IoT) - Ark IoT Proposals
 
 ## Bridges
 - [Aces](https://github.com/ark-aces) - Ethereum contract execution service repositories
