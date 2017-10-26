@@ -61,6 +61,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Node SwaggerDocs](https://ark.brianfaust.me/) - Complete documentation of the RESTful API to access the ark-node
 - [Ark-Node Guide](https://github.com/Jarunik/ark-node-guide) - Guide to help using ark-node
 - [ArkMonitor](https://github.com/Gr33nDrag0n69/ArkMonitor) - Powershell script for node monitoring
+- [Ark-RPC](https://github.com/arkecosystem/ark-rpc) - RPC server to connect to the ARK blockchain
 
 ## Delegate Tools 
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
