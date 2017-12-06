@@ -37,6 +37,8 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [SwiftyArk](https://github.com/arkcommunityfund/SwiftyArk) - A Swift Framework build for the Ark Ecosystem 
 - [Ark-Laravel](https://github.com/arkcommunityfund/Laravel-Ark) - An Ark bridge for Laravel
 - [Ark-Elixir](https://github.com/Highjhacker/Ark-Elixir) - Elixir Client
+- [Pythark](https://github.com/Highjhacker/pythark) - API Wrapper in Python.
+- [Luark](https://github.com/Highjhacker/LuArk) - API Wrapper in Lua. 
 
 ## User Interfaces
 
