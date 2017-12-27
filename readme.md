@@ -54,6 +54,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [ArkStats-Reporter](https://github.com/dafty-1/arkstats-reporter) - Backend service used to report statistics for the Ark network
 
 ### Mobile
+- [Ark-Mobile-Wallet](https://github.com/ArkEcosystem/ark-mobile) - Ark Mobile Wallet
 - [Ark-IOS-Monitor](https://github.com/ArkEcosystem/ark-ios-monitor) - Native iOS app to monitor your account
 - [Ark-Android-Monitor](https://github.com/ArkEcosystem/ark-android-monitor) - Native Android app to monitor your delegate account
 - [Ark-Delegate-App](https://github.com/ArkEcosystem/ark-delegate-app) - ARK Delegate monitoring APP for iOS and Android. Made with React Native 
