@@ -35,7 +35,10 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Ruby](https://github.com/faustbrian/Ark-Ruby) - Ruby
 - [Ark-Rust](https://github.com/arkcommunityfund/rust-ark) - Rust Client
 - [SwiftyArk](https://github.com/arkcommunityfund/SwiftyArk) - A Swift Framework build for the Ark Ecosystem 
-- [Ark-Laravel](https://github.com/arkcommunityfund/Laravel-Ark) - An Ark bridge for Laravel 
+- [Ark-Laravel](https://github.com/arkcommunityfund/Laravel-Ark) - An Ark bridge for Laravel
+- [Ark-Elixir](https://github.com/Highjhacker/Ark-Elixir) - Elixir Client
+- [Pythark](https://github.com/Highjhacker/pythark) - API Wrapper in Python.
+- [Luark](https://github.com/Highjhacker/LuArk) - API Wrapper in Lua. 
 
 ## User Interfaces
 
@@ -66,6 +69,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 ## Delegate Tools 
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
 - [ArkCoin-Dashboard](https://github.com/Jarunik/arkcoin) - Dashboard for arkcoin
+- [Noah](https://github.com/faustbrian/noah) - Automated rebuild for ark-node
 
 ## Hardware Integrations
 
