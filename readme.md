@@ -71,6 +71,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
 - [ArkCoin-Dashboard](https://github.com/Jarunik/arkcoin) - Dashboard for arkcoin
 - [Noah](https://github.com/faustbrian/noah) - Automated rebuild for ark-node
+- [ArkDelegate.com](http://www.arkdelegate.com) - Delegate front-end for voters
 
 ## Hardware Integrations
 
