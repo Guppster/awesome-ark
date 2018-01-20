@@ -52,6 +52,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-PaperWalletPi](https://github.com/Ark-IoT/ark-paperwallet-pi) - Ark-PaperWallet packaged with a webserver for offline use
 - [Ark-Faucet](https://github.com/arkcommunityfund/Ark-Faucet) - Code to run your own Ark faucet 
 - [ArkStats-Reporter](https://github.com/dafty-1/arkstats-reporter) - Backend service used to report statistics for the Ark network
+- [Ark-QRCode](https://github.com/luciorubeens/ark-qrcode) - A web component to generate QR codes for ARK payments.
 
 ### Mobile
 - [Ark-Mobile-Wallet](https://github.com/ArkEcosystem/ark-mobile) - Ark Mobile Wallet
