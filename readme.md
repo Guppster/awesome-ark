@@ -74,6 +74,8 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
 - [ArkCoin-Dashboard](https://github.com/Jarunik/arkcoin) - Dashboard for arkcoin
 - [Noah](https://github.com/faustbrian/noah) - Automated rebuild for ark-node
+- [TrueBlockWeight - Goose](https://github.com/galperins4/tbw) - Python version
+- [TrueBlockWeight Delegate Server - ArkoarGroup](https://github.com/arkoar-group/ark_tbw_delegate_server) - Elixir version
 - [Ark-Failover](https://github.com/reConNico/ark-failover) - Failover script for ark-node
 - [Ark-NODEifier](https://github.com/sleepdefic1t/Ark-NODEifier) - Arduino/ESP8266 Node Notification Template (BYO/RYO SMS/Email client)
 
