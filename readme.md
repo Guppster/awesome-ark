@@ -35,7 +35,12 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Ruby](https://github.com/faustbrian/Ark-Ruby) - Ruby
 - [Ark-Rust](https://github.com/arkcommunityfund/rust-ark) - Rust Client
 - [SwiftyArk](https://github.com/arkcommunityfund/SwiftyArk) - A Swift Framework build for the Ark Ecosystem 
-- [Ark-Laravel](https://github.com/arkcommunityfund/Laravel-Ark) - An Ark bridge for Laravel 
+- [Ark-Laravel](https://github.com/arkcommunityfund/Laravel-Ark) - An Ark bridge for Laravel
+- [Ark-Elixir](https://github.com/Highjhacker/Ark-Elixir) - Elixir Client
+- [Pythark](https://github.com/Highjhacker/pythark) - API Wrapper in Python.
+- [Luark](https://github.com/Highjhacker/LuArk) - API Wrapper in Lua. 
+- [Ark-Cpp](https://github.com/ark-iot/ark-cpp) - API Wrapper in Arduino/C++. 
+
 
 ## User Interfaces
 
@@ -49,8 +54,10 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-PaperWalletPi](https://github.com/Ark-IoT/ark-paperwallet-pi) - Ark-PaperWallet packaged with a webserver for offline use
 - [Ark-Faucet](https://github.com/arkcommunityfund/Ark-Faucet) - Code to run your own Ark faucet 
 - [ArkStats-Reporter](https://github.com/dafty-1/arkstats-reporter) - Backend service used to report statistics for the Ark network
+- [Ark-QRCode](https://github.com/luciorubeens/ark-qrcode) - A web component to generate QR codes for ARK payments.
 
 ### Mobile
+- [Ark-Mobile-Wallet](https://github.com/ArkEcosystem/ark-mobile) - Ark Mobile Wallet
 - [Ark-IOS-Monitor](https://github.com/ArkEcosystem/ark-ios-monitor) - Native iOS app to monitor your account
 - [Ark-Android-Monitor](https://github.com/ArkEcosystem/ark-android-monitor) - Native Android app to monitor your delegate account
 - [Ark-Delegate-App](https://github.com/ArkEcosystem/ark-delegate-app) - ARK Delegate monitoring APP for iOS and Android. Made with React Native 
@@ -69,6 +76,8 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Noah](https://github.com/faustbrian/noah) - Automated rebuild for ark-node
 - [TrueBlockWeight - Goose](https://github.com/galperins4/tbw) - Python version
 - [TrueBlockWeight Delegate Server - ArkoarGroup](https://github.com/arkoar-group/ark_tbw_delegate_server) - Elixir version
+- [Ark-Failover](https://github.com/reConNico/ark-failover) - Failover script for ark-node
+- [Ark-NODEifier](https://github.com/sleepdefic1t/Ark-NODEifier) - Arduino/ESP8266 Node Notification Template (BYO/RYO SMS/Email client)
 
 ## Hardware Integrations
 
@@ -79,7 +88,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-IoT Hub](https://github.com/Guppster/Ark-IoTHub) - A hub API for controlling IoT-Modules
 - [Ark-IoT Module](https://github.com/Guppster/ARK-Lock) - A specification for IoT hardware to follow to interact with Hub
 - [Ark-Iot Controller](https://github.com/Guppster/Ark-IoTController) - A react native application for controlling Ark-IoT modules
-- [IoT-Proposals](https://github.com/sleepdefic1t/ark-IoT) - Ark IoT Proposals
+- [Ark-IoT](https://github.com/ark-IoT) - Ark IoT
 
 ## Bridges
 - [Aces](https://github.com/ark-aces) - Ethereum contract execution service repositories
