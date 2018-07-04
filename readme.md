@@ -61,6 +61,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-IOS-Monitor](https://github.com/ArkEcosystem/ark-ios-monitor) - Native iOS app to monitor your account
 - [Ark-Android-Monitor](https://github.com/ArkEcosystem/ark-android-monitor) - Native Android app to monitor your delegate account
 - [Ark-Delegate-App](https://github.com/ArkEcosystem/ark-delegate-app) - ARK Delegate monitoring APP for iOS and Android. Made with React Native 
+- [Ark-News](https://github.com/geckogecko/Ark-News) - Decentralized news about the Ark ecosystem
 
 ## Developer Tools 
 
