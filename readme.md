@@ -17,8 +17,9 @@
 
 ## Node Implementations
 
-- [Ark-Node](https://github.com/ArkEcosystem/ark-node) - The official Ark node.
-- [GoArk-Node](https://github.com/kristjank/goark-node) - Ark Node Implementation in GOLang 
+- [Ark-Core](https://github.com/ArkEcosystem/ark-core) - The official Ark V2 Core
+- [Ark-Node](https://github.com/ArkEcosystem/ark-node) - The official Ark node **(LEGACY)**
+- [GoArk-Node](https://github.com/kristjank/goark-node) - Ark Node Implementation in GOLang **(LEGACY)**
 
 ## SDK's
 #### Client
