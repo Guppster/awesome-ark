@@ -39,6 +39,8 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-Elixir](https://github.com/Highjhacker/Ark-Elixir) - Elixir Client
 - [Pythark](https://github.com/Highjhacker/pythark) - API Wrapper in Python.
 - [Luark](https://github.com/Highjhacker/LuArk) - API Wrapper in Lua. 
+- [Ark-Cpp](https://github.com/ark-iot/ark-cpp) - API Wrapper in Arduino/C++. 
+
 
 ## User Interfaces
 
@@ -59,6 +61,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-IOS-Monitor](https://github.com/ArkEcosystem/ark-ios-monitor) - Native iOS app to monitor your account
 - [Ark-Android-Monitor](https://github.com/ArkEcosystem/ark-android-monitor) - Native Android app to monitor your delegate account
 - [Ark-Delegate-App](https://github.com/ArkEcosystem/ark-delegate-app) - ARK Delegate monitoring APP for iOS and Android. Made with React Native 
+- [Ark-News](https://github.com/geckogecko/Ark-News) - Decentralized news about the Ark ecosystem
 
 ## Developer Tools 
 
@@ -72,7 +75,10 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-TrueBlockWeight](https://github.com/arkcommunityfund/Ark-TrueBlockWeight) - Calculates the true block weight for all of an Ark delegate's voters 
 - [ArkCoin-Dashboard](https://github.com/Jarunik/arkcoin) - Dashboard for arkcoin
 - [Noah](https://github.com/faustbrian/noah) - Automated rebuild for ark-node
+- [TrueBlockWeight - Goose](https://github.com/galperins4/tbw) - Python version
+- [TrueBlockWeight Delegate Server - ArkoarGroup](https://github.com/arkoar-group/ark_tbw_delegate_server) - Elixir version
 - [Ark-Failover](https://github.com/reConNico/ark-failover) - Failover script for ark-node
+- [Ark-NODEifier](https://github.com/sleepdefic1t/Ark-NODEifier) - Arduino/ESP8266 Node Notification Template (BYO/RYO SMS/Email client)
 
 ## Hardware Integrations
 
@@ -83,7 +89,7 @@ Libraries written in different languages providing an interface to an ARK blockc
 - [Ark-IoT Hub](https://github.com/Guppster/Ark-IoTHub) - A hub API for controlling IoT-Modules
 - [Ark-IoT Module](https://github.com/Guppster/ARK-Lock) - A specification for IoT hardware to follow to interact with Hub
 - [Ark-Iot Controller](https://github.com/Guppster/Ark-IoTController) - A react native application for controlling Ark-IoT modules
-- [IoT-Proposals](https://github.com/sleepdefic1t/ark-IoT) - Ark IoT Proposals
+- [Ark-IoT](https://github.com/ark-IoT) - Ark IoT
 
 ## Bridges
 - [Aces](https://github.com/ark-aces) - Ethereum contract execution service repositories
